@@ -17,7 +17,7 @@ max_date = all_df["datetime"].max()
 
 with st.sidebar:
     # Menambahkan logo perusahaan (gunakan URL gambar yang tersedia)
-    st.image("wanliu_logo.jpg")
+    st.image("wanliu.png")
     
     # Mengambil rentang waktu dari date_input
     start_date, end_date = st.date_input(
