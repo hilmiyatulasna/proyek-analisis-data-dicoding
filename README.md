@@ -1,5 +1,8 @@
 # Belajar Analisis Data dengan Python Dicoding
 
+## Preview
+![Bike Sharing Dashboard Streamlit Preview](https://raw.githubusercontent.com/hilmiyatulasna/proyek-analisis-data-dicoding/main/preview.png)
+
 ## Project Analisis Data
 
 Repository ini berisi proyek data analytics yang saya kerjakan. Deployment in **Streamlit** <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit logo"></img>
