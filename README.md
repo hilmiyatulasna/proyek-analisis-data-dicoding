@@ -31,7 +31,12 @@ pipenv shell
 pip install -r requirements.txt
 ```
 
-## Run steamlit app
-```
-streamlit run dashboard.py
-```
+## Penggunaan
+1. Masuk ke direktori proyek (Local):
+
+    ```shell
+    cd bike-sharing/dashboard/
+    streamlit run dashboard.py
+    ```
+    Atau bisa dengan kunjungi website ini [Project Data Analytics](https://air-quality-hilmiyatt.streamlit.app/)
+
